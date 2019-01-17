@@ -2,3 +2,6 @@
 
 # tiny
 First attempt to publish a repo
+
+# install
+npm install @zeelmehta/tiny
