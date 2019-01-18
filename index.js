@@ -1,6 +1,4 @@
-const logger = (string) => {
-  return string
-}
+const logger = require('./logger');
 
 const lowerCase = (string) => {
   return lowerCase(string)
